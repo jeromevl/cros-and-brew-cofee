@@ -1,5 +1,11 @@
 function CustomerAddEdit() {
-    const customerId = window.location.pathname.split("/").pop() || null;
+    const customerId = function () {
+        const routeParam = window.location.pathname.split("/").pop() || null;
+        if (!isNaN(routeParam) && !isNaN(parseInt(routeParam)))
+            return parseInt(routeParam);
+        else
+            return null;
+    }();
 
     const [title, setTitle] = React.useState("");
     const [errors, setErrors] = React.useState({});
