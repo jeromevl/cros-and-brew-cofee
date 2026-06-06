@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BrewCofeeWithWeather.Tests/BrewCofeeWithWeather.Tests.csproj" />
+  <Project Path="BrewCofeeWithWeather/BrewCofeeWithWeather.csproj" />
+  <Project Path="BrewCoffee/BrewCoffee.csproj" />
+</Solution>

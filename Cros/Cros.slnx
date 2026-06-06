@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/BusinessLogic/">
+    <Project Path="Cros.BusinessLogic/Cros.BusinessLogic.csproj" />
+  </Folder>
+  <Folder Name="/DataAccess/">
+    <Project Path="Cros.DataAccess/Cros.DataAccess.csproj" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Cros.BusinessLogic.Tests/Cros.BusinessLogic.Tests.csproj" Id="fc364b9d-6007-4d33-b92e-c017c141e384" />
+  </Folder>
+  <Folder Name="/_Presentation/">
+    <Project Path="Cros/Cros.csproj" />
+  </Folder>
+</Solution>

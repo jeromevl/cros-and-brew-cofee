@@ -1,0 +1,6 @@
+@BrewCofeeWithWeather_HostAddress = http://localhost:5221
+
+GET {{BrewCofeeWithWeather_HostAddress}}/brew-coffee/
+Accept: application/json
+
+###
