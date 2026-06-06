@@ -16,6 +16,7 @@ b. Using cmd
   - Open cmd
   - Change directory to where Cros project resides
   - Type "dotnet run"
+  - Note the domain and port it's running on and type/paste it in your browser
   - For tests, change directory to where test project resides and type "dotnet test"
   
   
@@ -31,6 +32,7 @@ b. Using cmd
   - Open cmd
   - Change directory to the project you wish to run
   - Type "dotnet run"
+  - Note the domain and port it's running on and type/paste it in your browser and add "/brew-coffee" for path
   - For tests, change directory to where test project resides and type "dotnet test"
   
   
