@@ -6,6 +6,7 @@ Repo contains 2 solutions:
 How to run:
 
 Cros
+
 a. Using VS2026
   - Open solution in VS2026
   - Make sure Cros project is Startup Project (it should be)
@@ -21,7 +22,9 @@ b. Using cmd
   
   
 BrewCoffee
+
 There are 2 runnable projects in BrewCoffee, one without weather checking and one with weather checking.
+
 a. Using VS2026
   - Open solution in VS2026
   - Choose the project you wish to run and make it as Startup Project
